@@ -3,7 +3,7 @@ graph = {
 '3': ['2', '4'],
 '7': ['8'],
 '2': [],
-'4': ['8'],
+'4': ['9'],
 '8': []
 }
 visited = set() # Set to keep track of visited nodes of graph.
